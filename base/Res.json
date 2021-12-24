@@ -1,0 +1,11 @@
+{
+    "baril": "'./Modulos/Obj/baril'",
+    "barraca": "'./Modulos/Obj/barraca'",
+    "bush": "'./Modulos/Obj/bush'",
+    "rampa": "'./Modulos/Obj/gatilho_rampa'",
+    "house": "'./Modulos/Obj/house'",
+    "carro_ini": "'./Modulos/carro_inimigo'",
+    "carro": "'./Modulos/carro'",
+    "grama": "'./Modulos/grama'",
+    "rua_reta": "'./Modulos/rua_reta'"
+}

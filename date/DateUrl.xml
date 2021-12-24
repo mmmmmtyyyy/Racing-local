@@ -1,0 +1,25 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<url>
+    <rua_reta>'https://i.imgur.com/GsRf3o6.png'</rua_reta>
+    <rua_curva>'https://i.imgur.com/dsTXaAR.png'</rua_curva>
+    <pause>'https://i.imgur.com/pLDXhyw.png'</pause>
+    <rock>'https://i.imgur.com/FOk1YPh.png'</rock>
+    <carro1>'https://i.imgur.com/ZXaTU19.png'</carro1>
+    <carro2>'https://i.imgur.com/2pUpl0a.png'</carro2>
+    <grass_tile>'https://i.imgur.com/T9w4Ehl.png'</grass_tile>
+    <play>'https://i.imgur.com/7i1ckst.png'</play>
+    <rampa>'https://i.imgur.com/ecSk0iu.png'</rampa>
+    <baril_img>'https://i.imgur.com/sHtuMYF.png'</baril_img>
+    <bush_img>'https://i.imgur.com/J8WtaV0.png'</bush_img>
+    <house_img>'https://i.imgur.com/VIZlffG.png'</house_img>
+    <barraca_img>'https://i.imgur.com/n3yVxOq.png'</barraca_img>
+    <queima_de_peneu_img>'https://i.imgur.com/6hlaOim.png'</queima_de_peneu_img>
+    <rua_em_apri>'https://i.imgur.com/xq3uFsA.png'</rua_em_apri>
+    <start_img>'https://i.imgur.com/dFhdcWu.png'</start_img>
+    <grass_img>'https://i.imgur.com/T9w4Ehl.png'</grass_img>
+    <rua_1_90>'https://i.imgur.com/tew9eFa.png'</rua_1_90>
+    <rua_2_90>'https://i.imgur.com/b78qPoQ.png'</rua_2_90>
+    <fim>'https://i.imgur.com/lTeVW96.png'</fim>
+    <window1>'https://i.imgur.com/5nMoyKT.png'</window1>
+</url>
